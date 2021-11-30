@@ -5,7 +5,7 @@
 ### I'm a Data Scientist, Developer, and Forever Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m interested in Data Science
 - ⚡ Fun fact: I love to play video games 
 
 ---
