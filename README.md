@@ -1,4 +1,4 @@
-### Hi there, I'm Deniz Can Oğuz [denizcanoguz] 👋 
+### Hi there, I'm Deniz Can Oğuz 👋 
 
 ## I'm a Data Scientist, Developer, and Forever Student!!
 
