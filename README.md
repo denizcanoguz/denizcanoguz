@@ -43,6 +43,8 @@
 
 ---
 
+<br />
+
 [![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcanoguz&show_icons=true&theme=aura)](https://github.com/denizcanoguz/github-readme-stats)
 
 [twitter]: https://twitter.com/DenizC_O
