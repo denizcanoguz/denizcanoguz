@@ -1,5 +1,5 @@
 ### Hi there, I'm Deniz Can Oğuz [denizcanoguz] 👋 
-[![Linkedin Badge](https://img.shields.io/badge/handekucukbulut-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denizcanoguz/)][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/denizcanoguz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/denizcanoguz/)][linkedin]
 
 
 ## I'm a Data Scientist, Developer, and Forever Student!!
