@@ -13,7 +13,6 @@
 [<img align="left" alt="pingstech | Instagram" width="22px" src="https://user-images.githubusercontent.com/62206442/144138427-d2bbddb4-2ccf-457a-833b-5c31404fece8.png" />][instagram]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
