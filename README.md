@@ -17,6 +17,7 @@
 
 ---
 
+[![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcanoguz)](https://github.com/denizcanoguz/github-readme-stats)
 
 [twitter]: https://twitter.com/DenizC_O
 [instagram]: https://www.instagram.com/denizcnogz/
