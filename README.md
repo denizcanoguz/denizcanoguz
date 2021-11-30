@@ -19,8 +19,11 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
+<img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/19577817/144139251-77b527be-9701-46e1-bb18-e3bcc301607d.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
+
+
 
 <br />
 <br />
