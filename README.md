@@ -1,5 +1,7 @@
 ### Hi there, I'm Deniz Can Oğuz 👋 
 
+---
+
 ### I'm a Data Scientist, Developer, and Forever Student!!
 
 - 🌱 I’m currently learning everything 🤣
