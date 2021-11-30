@@ -16,7 +16,7 @@
 [<img align="left" alt="denizcanoguz | Twitter" width="22px" src="https://user-images.githubusercontent.com/62206442/144138529-f99ba513-c423-46a6-a770-8baa9dc29b3a.png" />][twitter]
 
 
-
+---
 
 <br />
 
@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
 
 
-
+---
 
 <br />
 <br />
