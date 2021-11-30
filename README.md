@@ -19,6 +19,7 @@
 
 
 <br />
+
 ---
 
 ### Languages and Tools:
@@ -35,6 +36,7 @@
 
 <br />
 <br />
+
 ---
 
 [![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcanoguz&show_icons=true&theme=aura)](https://github.com/denizcanoguz/github-readme-stats)
