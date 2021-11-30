@@ -10,9 +10,10 @@
 
 
 [<img align="left" alt="denizcanoguz | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/62206442/144138463-6e1a1009-3562-489a-8735-fa0b42056ffe.png" />][linkedin]
-[<img align="left" alt="denizcanoguz | Instagram" width="22px" src="https://user-images.githubusercontent.com/62206442/144138427-d2bbddb4-2ccf-457a-833b-5c31404fece8.png" />][kaggle]
+[<img align="left" alt="denizcanoguz | KAGGLE" width="22px" src="https://user-images.githubusercontent.com/19577817/144139810-0670f5c9-7dec-49f9-b135-d9fdc1116701.png" />][kaggle]
 [<img align="left" alt="denizcanoguz | Instagram" width="22px" src="https://user-images.githubusercontent.com/62206442/144138427-d2bbddb4-2ccf-457a-833b-5c31404fece8.png" />][instagram]
 [<img align="left" alt="denizcanoguz | Twitter" width="22px" src="https://user-images.githubusercontent.com/62206442/144138529-f99ba513-c423-46a6-a770-8baa9dc29b3a.png" />][twitter]
+![pngwing com (1)]()
 
 
 <br />
