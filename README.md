@@ -14,6 +14,7 @@
 
 
 [<img align="left" alt="denizcanoguz | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/62206442/144138463-6e1a1009-3562-489a-8735-fa0b42056ffe.png" />][linkedin]
+[<img align="left" alt="denizcanoguz | Medium" width="22px" src="https://user-images.githubusercontent.com/19577817/144751383-9cb4a60e-b71c-4e0f-929b-d08a19138c68.png" />][medium]
 [<img align="left" alt="denizcanoguz | KAGGLE" width="48px" src="https://user-images.githubusercontent.com/19577817/144139810-0670f5c9-7dec-49f9-b135-d9fdc1116701.png" />][kaggle]
 [<img align="left" alt="denizcanoguz | TABLEAU PUBLIC" width="48px" src="https://user-images.githubusercontent.com/19577817/144140422-47f3dd6e-1349-400d-a104-127029254c70.png" />][tableau]
 [<img align="left" alt="denizcanoguz | Instagram" width="22px" src="https://user-images.githubusercontent.com/62206442/144138427-d2bbddb4-2ccf-457a-833b-5c31404fece8.png" />][instagram]
@@ -37,6 +38,7 @@
 
 
 
+![pngwing com (4)]()
 
 
 <br />
@@ -52,3 +54,4 @@
 [linkedin]: https://www.linkedin.com/in/denizcanoguz/
 [kaggle]: https://www.kaggle.com/denizcanoguz
 [tableau]: https://public.tableau.com/app/profile/denizcanoguz#!/?newProfile=&activeTab=0
+[medium]:https://medium.com/@denizcan.oguz
