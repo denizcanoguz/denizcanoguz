@@ -48,6 +48,7 @@
 <br />
 
 [![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcanoguz&show_icons=true&theme=aura)](https://github.com/denizcanoguz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizcanoguz&repo=github-readme-stats)](https://github.com/denizcanoguz/github-readme-stats)
 
 [twitter]: https://twitter.com/DenizC_O
 [instagram]: https://www.instagram.com/denizcnogz/
